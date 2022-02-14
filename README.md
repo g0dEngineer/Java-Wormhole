@@ -1,1 +1,1 @@
-# Java Wormhole
+# Java Wormhole Session by <yourname>
