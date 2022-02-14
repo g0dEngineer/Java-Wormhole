@@ -1,1 +1,2 @@
-# Java Wormhole Session by <yourname>
+# My Java Wormhole Session
+# God Bennett
